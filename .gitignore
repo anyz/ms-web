@@ -41,6 +41,7 @@ bin
 /out
 /.idea_modules
 
+mvnw
 *.iml
 *.mvn
 .mvn/*
