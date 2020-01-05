@@ -1,0 +1,108 @@
+body { 
+	padding-top: 75px;
+	}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover{
+	color: #ffffff;
+    background-color: #222;
+}
+.nav-justified>li>a{
+	color: #d9dad9;
+}
+.nav-justified>li>a:hover{
+	color: #ffffff;
+	background-color: #222;
+}
+.nav {
+    padding-left: 0;
+    /* margin-bottom: 20px; */
+    list-style: none;
+}
+.ms-header{
+	/* background-color: #4f9a20;
+    border-color: #36750e; */
+    color: #ffffff;
+}
+
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f6f9f2;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+/* body > .container {
+  padding: 60px 15px 0;
+} */
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+  text-align: center;
+}
+
+code {
+  font-size: 80%;
+}
+.carousel-content {
+    color:black;
+    display:flex;
+    align-items:center;
+}
+.carousel-inner {
+	height: 120px;
+}
+.jumbotron {
+	padding-bottom: 30px; 
+	padding-top: 20px;
+	/* background-color: #f6f9f6; */
+}
+.carousel-indicators {
+    bottom: -40px;
+}
+
+
+.carousel-indicators li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #000\9;
+    background-color: rgba(0,0,0,0);
+    border: 2px solid #7a0000;
+    border-radius: 10px;
+}
+
+.logo-margin {
+	margin-top: 25px;
+}
+
+.heading-color{
+	color: #7a0000;
+}
+.glow-button:hover {
+ color: rgba(255, 255, 255, 1);
+ box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
+}

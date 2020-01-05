@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+
+</head>
+<body>
+
+<div th:fragment="header">
+
+<div id="header">
+    <header class="navbar navbar-inverse ms-header navbar-fixed-top">
+        <div class="container">
+            <div class="collapse navbar-collapse">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div id="todaysdate"></div>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="images/header.png" height="35px" width="215px"/>
+                    </div>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><span class="glyphicon glyphicon-home"></span> 14225 University Ave # 270, Waukee, IA 50263
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
+
+            <div>
+                <ul class="nav nav-pills nav-justified">
+                    <li>
+                        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"
+                              class="donateForm">
+                            <input type="hidden" name="cmd" value="_s-xclick">
+                            <input type="hidden" name="hosted_button_id" value="NWWTRPY5NF8T8">
+                            <input type="button" name="submit" value="Donate Now!" alt="Donate Now"
+                                   class="btn btn-danger glow-button"/>
+                        </form>
+
+                    </li>
+                    <li role="presentation" class="active"><a href="#">Home</a></li>
+                    <li role="presentation"><a href="programs.html">Programs</a></li>
+                    <li role="presentation"><a href="prayertimes.html">Prayer Times</a></li>
+                    <li role="presentation"><a href="donations.html">Donations</a></li>
+                    <li role="presentation"><a href="contactus.html">Contact Us</a></li>
+                </ul>
+            </div>
+
+
+        </div>
+
+    </header>
+</div>
+
+</div>
+</body>
+</html>

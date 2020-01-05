@@ -1,0 +1,316 @@
+{  
+   "times":[  
+      {  
+         "monthCounter":"01",
+         "halfCounter":"1",
+         "times":[  
+            {  
+               "fajar":"06:30 AM",
+               "zohar":"01:30 PM",
+               "asar":"04:00 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"08:30 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"01",
+         "halfCounter":"2",
+         "times":[  
+            {  
+               "fajar":"06:30 AM",
+               "zohar":"01:30 PM",
+               "asar":"04:00 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"08:30 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"02",
+         "halfCounter":"1",
+         "times":[  
+            {  
+               "fajar":"06:30 AM",
+               "zohar":"01:30 PM",
+               "asar":"04:30 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"08:30 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"02",
+         "halfCounter":"2",
+         "times":[  
+            {  
+               "fajar":"06:30 AM",
+               "zohar":"01:30 PM",
+               "asar":"04:30 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"08:30 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"03",
+         "halfCounter":"1",
+         "times":[  
+            {  
+               "fajar":"06:00 AM",
+               "zohar":"01:30 PM",
+               "asar":"05:00 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"08:30 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"03",
+         "halfCounter":"2",
+         "times":[  
+            {  
+               "fajar":"06:30 AM",
+               "zohar":"01:30 PM",
+               "asar":"06:00 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"09:00 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"04",
+         "halfCounter":"1",
+         "times":[  
+            {  
+               "fajar":"05:45 AM",
+               "zohar":"01:30 PM",
+               "asar":"06:30 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"10:00 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"04",
+         "halfCounter":"2",
+         "times":[  
+            {  
+               "fajar":"05:45 AM",
+               "zohar":"01:30 PM",
+               "asar":"06:30 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"10:00 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"05",
+         "halfCounter":"1",
+         "times":[  
+            {  
+               "fajar":"05:15 AM",
+               "zohar":"01:30 PM",
+               "asar":"06:45 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"10:45 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"05",
+         "halfCounter":"2",
+         "times":[  
+            {  
+               "fajar":"05:15 AM",
+               "zohar":"01:30 PM",
+               "asar":"06:45 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"10:45 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"06",
+         "halfCounter":"1",
+         "times":[  
+            {  
+               "fajar":"04:00 AM",
+               "zohar":"01:30 PM",
+               "asar":"06:45 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"11:00 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"06",
+         "halfCounter":"2",
+         "times":[  
+            {  
+               "fajar":"04:00 AM",
+               "zohar":"01:30 PM",
+               "asar":"06:45 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"11:00 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"07",
+         "halfCounter":"1",
+         "times":[  
+            {  
+               "fajar":"05:15 AM",
+               "zohar":"01:30 PM",
+               "asar":"06:45 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"11:00 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"07",
+         "halfCounter":"2",
+         "times":[  
+            {  
+               "fajar":"05:15 AM",
+               "zohar":"01:30 PM",
+               "asar":"06:45 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"10:45 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"08",
+         "halfCounter":"1",
+         "times":[  
+            {  
+               "fajar":"05:45 AM",
+               "zohar":"01:30 PM",
+               "asar":"06:30 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"10:30 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"08",
+         "halfCounter":"2",
+         "times":[  
+            {  
+               "fajar":"06:00 AM",
+               "zohar":"01:30 PM",
+               "asar":"06:15 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"10:00 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"09",
+         "halfCounter":"1",
+         "times":[  
+            {  
+               "fajar":"06:15 AM",
+               "zohar":"01:30 PM",
+               "asar":"06:00 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"09:15 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"09",
+         "halfCounter":"2",
+         "times":[  
+            {  
+               "fajar":"06:30 AM",
+               "zohar":"01:30 PM",
+               "asar":"05:45 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"08:45 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"10",
+         "halfCounter":"1",
+         "times":[  
+            {  
+               "fajar":"06:30 AM",
+               "zohar":"01:30 PM",
+               "asar":"05:45 PM",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":"09:00 PM"
+            }
+         ]
+      },
+      {  
+         "monthCounter":"10",
+         "halfCounter":"2",
+         "times":[  
+            {  
+               "fajar":"",
+               "zohar":"",
+               "asar":"",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":""
+            }
+         ]
+      },
+      {  
+         "monthCounter":"11",
+         "halfCounter":"1",
+         "times":[  
+            {  
+               "fajar":"",
+               "zohar":"",
+               "asar":"",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":""
+            }
+         ]
+      },
+      {  
+         "monthCounter":"11",
+         "halfCounter":"2",
+         "times":[  
+            {  
+               "fajar":"",
+               "zohar":"",
+               "asar":"",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":""
+            }
+         ]
+      },
+      {  
+         "monthCounter":"12",
+         "halfCounter":"1",
+         "times":[  
+            {  
+               "fajar":"",
+               "zohar":"",
+               "asar":"",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":""
+            }
+         ]
+      },
+      {  
+         "monthCounter":"12",
+         "halfCounter":"2",
+         "times":[  
+            {  
+               "fajar":"",
+               "zohar":"",
+               "asar":"",
+               "magrib":"Maghrib Time Plus 5 Minutes",
+               "isha":""
+            }
+         ]
+      }
+   ]
+}
