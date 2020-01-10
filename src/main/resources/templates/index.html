@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
-                layout:decorate="layout"
+<html lang="en" layout:decorate="~{layout}"
                 xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
 <head>
 
@@ -9,7 +8,6 @@
 <body>
 <div layout:fragment="content">
 
-<div class="container">
 
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -100,9 +98,6 @@
                    data-tweet-limit="1">
                     Tweets by @chicagohilal</a>
                 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-                <!-- <a class="twitter-timeline" data-width="60%" data-height="300px" data-tweet-limit="1" data-chrome="nofooter noheader"  href="https://twitter.com/search?q=from%3Achicagohilal" data-widget-id="775098801103081472">Tweets about from:chicagohilal</a>
-                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-                -->
             </div>
             <p/>
         </div>
@@ -123,7 +118,6 @@
             <p/>
         </div>
     </div>
-</div>
 
 </div>
 </body>
